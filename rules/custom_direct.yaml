@@ -1,0 +1,22 @@
+payload:
+  - DOMAIN,router.local
+  - DOMAIN,nas.local
+  - DOMAIN-SUFFIX,lan
+  - DOMAIN-SUFFIX,local
+  - DOMAIN-SUFFIX,home.arpa
+  - IP-CIDR,10.0.0.0/8
+  - IP-CIDR,172.16.0.0/12
+  - IP-CIDR,192.168.0.0/16
+  - IP-CIDR,127.0.0.0/8
+  - IP-CIDR,169.254.0.0/16
+
+  # cn
+  - DOMAIN-SUFFIX,cn
+  - DOMAIN-SUFFIX,com.cn
+  - DOMAIN-SUFFIX,net.cn
+  - DOMAIN-SUFFIX,org.cn
+
+  # edu
+  - DOMAIN-SUFFIX,edu.cn
+  - DOMAIN-SUFFIX,cc98.org
+
