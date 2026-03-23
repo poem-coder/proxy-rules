@@ -20,3 +20,6 @@ payload:
   - DOMAIN-SUFFIX,edu.cn
   - DOMAIN-SUFFIX,cc98.org
 
+  # processes
+  - PROCESS-NAME,qbittorrent.exe
+  - PROCESS-NAME,syncthing.exe
